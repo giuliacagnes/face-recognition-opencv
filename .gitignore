@@ -42,3 +42,6 @@ tmtagsHistory
 
 # Video files
 .avi
+
+# Output files
+encodings.pickle
