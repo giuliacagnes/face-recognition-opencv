@@ -45,3 +45,6 @@ tmtagsHistory
 
 # Output files
 encodings.pickle
+
+# Virtual environment
+venv
